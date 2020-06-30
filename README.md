@@ -1,5 +1,6 @@
 Learning .gitignore
 !!! 
+
 Для исключения папки .code из всех проектов для локального пользователя
 необходимо выполнить команду
 git config --global core.excludesFile .code/
